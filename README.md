@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maina1017
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on certifications
 - 📫 How to reach me whatsapp +254743061543
 
